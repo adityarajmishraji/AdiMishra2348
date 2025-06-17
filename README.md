@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiMishra2348
 - 👀 I’m interested in fullstack developer. 
-- 🌱 I’m currently learning (MERN)fullstack developer and pursuing BCA. 
+- 🌱 I’m currently learning (MERN)fullstack developer and pursuing MCA. 
 - 💞️ I’m looking to collaborate on begginer friendly coding environment. 
 - 📫 You can contact me via e-mail- kunj2348@gmail.com
 
